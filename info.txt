@@ -1,0 +1,3 @@
+('Manan Sood', 'manansood732004@gmail.com', 'Man@krish08')
+('Karanpreet', 'Karanpreet@gmail.com', 'Karanpreet@123')
+('Saksham', 'saksham@gmail.com', 'SakSham@978')
